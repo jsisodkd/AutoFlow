@@ -200,8 +200,7 @@ function Search()
     </div>
     <div class="amazing">
       <div class="amazing-box" onclick="location.href='test.html'">
-        <p>Amazing</p>\
-        <font-awesome-icon :icon="['fas', 'bell']" style="color: #d41cbc;" />
+        <p>Amazing</p>
       </div>
     </div>
     <div class="middle-line"></div>
